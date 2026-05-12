@@ -1,0 +1,31 @@
+{
+  "government": [
+    {
+      "name": "Government Press Release Portal",
+      "url": "https://pib.gov.in",
+      "country": "India"
+    },
+    {
+      "name": "Ministry of Information",
+      "url": "https://mib.gov.in",
+      "country": "India"
+    }
+  ],
+  "media": [
+    {
+      "name": "Reuters",
+      "reliability": 95,
+      "bias": "center"
+    },
+    {
+      "name": "Associated Press",
+      "reliability": 95,
+      "bias": "center"
+    },
+    {
+      "name": "BBC News",
+      "reliability": 90,
+      "bias": "center-left"
+    }
+  ]
+}

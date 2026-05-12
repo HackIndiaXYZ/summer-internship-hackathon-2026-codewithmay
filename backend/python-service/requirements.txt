@@ -1,0 +1,22 @@
+# backend/python-service/requirements.txt
+# Fixed version - no Rust compilation needed
+
+flask==3.0.0
+flask-cors==4.0.0
+
+# Use newer versions with pre-built wheels
+transformers==4.46.3
+torch==2.5.1
+tokenizers==0.20.3
+
+# Other dependencies
+sentence-transformers==3.3.1
+requests==2.31.0
+beautifulsoup4==4.12.3
+wikipedia-api==0.7.1
+python-dotenv==1.0.1
+
+# Additional required packages
+numpy>=1.24.0
+tqdm>=4.65.0
+scikit-learn>=1.3.0
